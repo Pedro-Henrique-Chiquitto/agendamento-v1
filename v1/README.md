@@ -4,7 +4,6 @@ Sistema web desenvolvido para gerenciar o agendamento de equipamentos escolares 
 
 ## 🌟 Funcionalidades
 
-- Autenticação com Google OAuth 2.0
 - Gerenciamento de unidades escolares isoladas
 - Agendamento de equipamentos (tablets, notebooks, etc.)
 - Visualização por calendário interativo
